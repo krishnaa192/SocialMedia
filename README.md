@@ -16,12 +16,13 @@ This project is a simple social media platform built using Django Rest Framework
 - Python 3.x
 - Django
 - Django Rest Framework
-- PostgreSQL (recommended)
+
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/social-media-platform.git
-cd social-media-platform
+git clone https://github.com/yourusername/SocialMedia.git
+cd SocialMedia
+
